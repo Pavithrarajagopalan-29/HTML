@@ -1,0 +1,76 @@
+
+body{
+
+}
+#textbox{
+    margin-top: 5%;
+}
+h3{
+    letter-spacing: 0.5px;
+    word-spacing: normal;
+    color: rgb(41, 33, 33);
+}
+h5{
+    color: gray;
+}
+#text{
+    text-align: center;
+    font-family:sans-serif;
+}
+.mainbox{
+   display: flex; 
+   margin-left: 5cm;
+   margin-top:2%;
+   position: static;
+}
+.box{
+    background-color: rgb(95, 252, 95);
+    
+    margin: 1%;
+    
+    height: 11cm;
+    width: 8cm;
+    
+}
+.box1{
+    background-color: rgb(250, 250, 153);
+
+    margin:1%;
+    
+    height: 11cm;
+    width: 8cm;
+   
+}
+.box2{
+    background-color:rgb(247, 193, 94);
+
+    margin: 1%;
+    
+    height: 11cm;
+    width: 8cm;
+    
+}
+.greybox{
+    height: 3.5cm;
+    background-color: rgb(190, 183, 183);
+    position: static
+}
+.rupees{
+    text-align: center;
+    padding-top: 1cm;
+}
+.small{
+    color: rgb(180, 40, 40);
+    text-align: center;
+    font-family:sans-serif;
+}
+.get{
+    
+    background-color: rgb(8, 168, 8);
+    margin-top: 4cm;
+    height: 1cm;
+    width: 6cm;
+    box-shadow: none;
+    margin-left: 1cm;
+    border-radius:0.2em;
+}
